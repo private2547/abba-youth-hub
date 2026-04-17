@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Youth Opportunity Hub</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+<h1>Youth Opportunity Hub</h1>
+<a href="jobs.html">Jobs</a> |
+<a href="courses.html">Courses</a>
+</header>
+
+<section>
+<h2>Welcome</h2>
+<p>This website helps youth get jobs and learn skills for free.</p>
+</section>
+
+<footer>
+<p>© 2026 Youth Opportunity Hub</p>
+</footer>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Jobs</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<h1>Available Jobs</h1>
+
+<a href="index.html">Home</a>
+
+<ul>
+<li>Teacher</li>
+<li>Office Assistant</li>
+<li>Computer Operator</li>
+</ul>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Courses</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<h1>Free Courses</h1>
+
+<a href="index.html">Home</a>
+
+<ul>
+<li>Computer Basics</li>
+<li>Web Development</li>
+<li>Digital Skills</li>
+</ul>
+
+</body>
+</html>
+body {
+font-family: Arial;
+text-align: center;
+background: #f2f2f2;
+}
+
+header {
+background: blue;
+color: white;
+padding: 10px;
+}
+
+a {
+color: white;
+margin: 10px;
+text-decoration: none;
+}
+
+section {
+padding: 20px;
+background: white;
+margin: 10px;
+}
+
+footer {
+margin-top: 20px;
+background: black;
+color: white;
+padding: 10px;
+}
